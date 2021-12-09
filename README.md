@@ -1,6 +1,8 @@
 # FrankArnott_TDM
 Jupyter Notebook with text data mining methodology used in the Frank Arnott competition 2022.
 
+[Click here for the Jupyter Notebook](TDMFrankArnott.ipynb)
+
 There are a few ways you can download and use this notebook for your own data.
 * Using command line if you use git, you can use gh repo clone drew026/FrankArnott_TDM
 * You can also simple download the repository as a zip file using the green "code" button in the top right, and open as your own Jupyter Notebook.
